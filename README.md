@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ImranKhaliif
+- 👋 Hi, I’m Imran Khaliif.
 - 👀 I’m very interested in all tech.
 - 🌱 I’m currently learning html, css, javascript, & react.
 - 💞️ I’m looking to collaborate on interesting new project particularly in saas.
-- 📫 You can reach me on X @ImranKhaliif or on linkedin @Imran Khaliif
+- 📫 You can reach me on X @ImranKhaliif or on linkedin @Imran Khaliif.
